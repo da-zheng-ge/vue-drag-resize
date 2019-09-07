@@ -71,18 +71,18 @@ export default {
             }
         },
         w: {
-            type: Number,
-            default: 100,
-            validator: function (val) {
-                return val > 0
-            }
+//             type: Number,
+            default: 100
+//             validator: function (val) {
+//                 return val > 0
+//             }
         },
         h: {
-            type: Number,
-            default: 100,
-            validator: function (val) {
-                return val > 0
-            }
+//             type: Number,
+            default: 100
+//             validator: function (val) {
+//                 return val > 0
+//             }
         },
         minw: {
             type: Number,
